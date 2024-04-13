@@ -6,3 +6,20 @@
     color: white !important;
 }
 
+footer{
+    background-color: rgb(47, 47, 114) !important;
+    text-align: center !important;
+    color: white !important;
+}
+
+.img-car{
+    max-height: 600px !important;
+}
+
+.divisao{
+    background-color: rgb(47, 47, 114) !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 3em !important;
+    margin-bottom: 5em !important;
+}
