@@ -23,3 +23,7 @@ footer{
     padding: 3em !important;
     margin-bottom: 5em !important;
 }
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.534) !important;
+}
