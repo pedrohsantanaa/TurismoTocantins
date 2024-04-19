@@ -47,3 +47,13 @@ footer{
 .card h4{
     color: brown !important;
 }
+
+.sec-contatos{
+    margin-bottom: 5% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
+.btn-card{
+    margin-top: 20% !important;
+}
